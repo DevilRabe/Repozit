@@ -1,0 +1,13 @@
+C:\Users\nik-n\source\repos\TechTaskCalendar\TechTaskCalendar\bin\Debug\netcoreapp3.1\TechTaskCalendar.exe
+C:\Users\nik-n\source\repos\TechTaskCalendar\TechTaskCalendar\bin\Debug\netcoreapp3.1\TechTaskCalendar.deps.json
+C:\Users\nik-n\source\repos\TechTaskCalendar\TechTaskCalendar\bin\Debug\netcoreapp3.1\TechTaskCalendar.runtimeconfig.json
+C:\Users\nik-n\source\repos\TechTaskCalendar\TechTaskCalendar\bin\Debug\netcoreapp3.1\TechTaskCalendar.runtimeconfig.dev.json
+C:\Users\nik-n\source\repos\TechTaskCalendar\TechTaskCalendar\bin\Debug\netcoreapp3.1\TechTaskCalendar.dll
+C:\Users\nik-n\source\repos\TechTaskCalendar\TechTaskCalendar\bin\Debug\netcoreapp3.1\TechTaskCalendar.pdb
+C:\Users\nik-n\source\repos\TechTaskCalendar\TechTaskCalendar\obj\Debug\netcoreapp3.1\TechTaskCalendar.csprojAssemblyReference.cache
+C:\Users\nik-n\source\repos\TechTaskCalendar\TechTaskCalendar\obj\Debug\netcoreapp3.1\TechTaskCalendar.AssemblyInfoInputs.cache
+C:\Users\nik-n\source\repos\TechTaskCalendar\TechTaskCalendar\obj\Debug\netcoreapp3.1\TechTaskCalendar.AssemblyInfo.cs
+C:\Users\nik-n\source\repos\TechTaskCalendar\TechTaskCalendar\obj\Debug\netcoreapp3.1\TechTaskCalendar.csproj.CoreCompileInputs.cache
+C:\Users\nik-n\source\repos\TechTaskCalendar\TechTaskCalendar\obj\Debug\netcoreapp3.1\TechTaskCalendar.dll
+C:\Users\nik-n\source\repos\TechTaskCalendar\TechTaskCalendar\obj\Debug\netcoreapp3.1\TechTaskCalendar.pdb
+C:\Users\nik-n\source\repos\TechTaskCalendar\TechTaskCalendar\obj\Debug\netcoreapp3.1\TechTaskCalendar.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\nik-n\source\repos\ChartiX\ChartiX\obj\Debug\ChartiX.csprojAssemblyReference.cache
+C:\Users\nik-n\source\repos\ChartiX\ChartiX\obj\Debug\ChartiX.csproj.CoreCompileInputs.cache
+C:\Users\nik-n\source\repos\ChartiX\ChartiX\bin\Debug\ChartiX.dll.config
+C:\Users\nik-n\source\repos\ChartiX\ChartiX\bin\Debug\ChartiX.dll
+C:\Users\nik-n\source\repos\ChartiX\ChartiX\bin\Debug\ChartiX.pdb
+C:\Users\nik-n\source\repos\ChartiX\ChartiX\obj\Debug\ChartiX.dll
+C:\Users\nik-n\source\repos\ChartiX\ChartiX\obj\Debug\ChartiX.pdb

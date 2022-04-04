@@ -1,0 +1,11 @@
+C:\Users\nik-n\source\repos\ChartiX\ChartixServer\obj\Debug\ChartixServer.csproj.CoreCompileInputs.cache
+C:\Users\nik-n\source\repos\ChartiX\ChartixServer\bin\Debug\ChartixServer.exe.config
+C:\Users\nik-n\source\repos\ChartiX\ChartixServer\bin\Debug\ChartixServer.exe
+C:\Users\nik-n\source\repos\ChartiX\ChartixServer\bin\Debug\ChartixServer.pdb
+C:\Users\nik-n\source\repos\ChartiX\ChartixServer\bin\Debug\ChartiX.dll
+C:\Users\nik-n\source\repos\ChartiX\ChartixServer\bin\Debug\ChartiX.pdb
+C:\Users\nik-n\source\repos\ChartiX\ChartixServer\bin\Debug\ChartiX.dll.config
+C:\Users\nik-n\source\repos\ChartiX\ChartixServer\obj\Debug\ChartixServer.csprojAssemblyReference.cache
+C:\Users\nik-n\source\repos\ChartiX\ChartixServer\obj\Debug\ChartixServer.csproj.CopyComplete
+C:\Users\nik-n\source\repos\ChartiX\ChartixServer\obj\Debug\ChartixServer.exe
+C:\Users\nik-n\source\repos\ChartiX\ChartixServer\obj\Debug\ChartixServer.pdb

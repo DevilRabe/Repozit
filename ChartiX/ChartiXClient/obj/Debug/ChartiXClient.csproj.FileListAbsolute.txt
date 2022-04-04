@@ -1,0 +1,15 @@
+C:\Users\nik-n\source\repos\ChartiX\ChartiXClient\bin\Debug\ChartiXClient.exe.config
+C:\Users\nik-n\source\repos\ChartiX\ChartiXClient\bin\Debug\ChartiXClient.exe
+C:\Users\nik-n\source\repos\ChartiX\ChartiXClient\bin\Debug\ChartiXClient.pdb
+C:\Users\nik-n\source\repos\ChartiX\ChartiXClient\obj\Debug\MainWindow.g.cs
+C:\Users\nik-n\source\repos\ChartiX\ChartiXClient\obj\Debug\App.g.cs
+C:\Users\nik-n\source\repos\ChartiX\ChartiXClient\obj\Debug\ChartiXClient_MarkupCompile.cache
+C:\Users\nik-n\source\repos\ChartiX\ChartiXClient\obj\Debug\ChartiXClient_MarkupCompile.lref
+C:\Users\nik-n\source\repos\ChartiX\ChartiXClient\obj\Debug\MainWindow.baml
+C:\Users\nik-n\source\repos\ChartiX\ChartiXClient\obj\Debug\ChartiXClient.g.resources
+C:\Users\nik-n\source\repos\ChartiX\ChartiXClient\obj\Debug\ChartiXClient.Properties.Resources.resources
+C:\Users\nik-n\source\repos\ChartiX\ChartiXClient\obj\Debug\ChartiXClient.csproj.GenerateResource.cache
+C:\Users\nik-n\source\repos\ChartiX\ChartiXClient\obj\Debug\ChartiXClient.csproj.CoreCompileInputs.cache
+C:\Users\nik-n\source\repos\ChartiX\ChartiXClient\obj\Debug\ChartiXClient.exe
+C:\Users\nik-n\source\repos\ChartiX\ChartiXClient\obj\Debug\ChartiXClient.pdb
+C:\Users\nik-n\source\repos\Chartix\ChartiXClient\obj\Debug\ChartiXClient.csprojAssemblyReference.cache
